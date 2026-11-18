@@ -11,3 +11,6 @@ reports/generated/*
 *.pkl
 *.joblib
 .DS_Store
+
+member_2_dhanush/data/processed/*.parquet
+__pycache__/
